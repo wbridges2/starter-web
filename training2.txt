@@ -1,0 +1,6 @@
+Training Categories
+Initial Training – Training for newly hired employees designed to integrate the employee into the Simlabs team. 
+Specialty Training - Training specific to the employee’s job description.
+System Qualification Training – Training to certify the employee for operation of specific Simlabs system, such as the Vertical Motion Simulator of the B747 Simulator.
+Recurrent Training – Training provided on an annual basis of training on relevant and timely safety topics.
+
